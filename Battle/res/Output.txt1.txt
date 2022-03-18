@@ -1,0 +1,284 @@
+"C:\Program Files\Java\jdk-11.0.12\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.1\lib\idea_rt.jar=60614:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\amarp\CS5010\Battle\out\production\Battle;C:\Users\amarp\.m2\repository\junit\junit\4.13.1\junit-4.13.1.jar;C:\Users\amarp\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar Driver
+Game with result: P1WIN
+Enter REMATCH rematch the players or enter any key to exit:
+REMATCH
+Game with result: P1WIN
+Enter REMATCH rematch the players or enter any key to exit:
+exit
+Welcome to the Battle, here two players P1 and P2 will be contesting.
+---------Below Players Created:------------
+Player name: P1 , strength 14, constitution 14, dexterity 9, charisma 14 Health 51, Weapon 
+Player name: P2 , strength 14, constitution 9, dexterity 11, charisma 12 Health 46, Weapon 
+
+
+---------Setting up below player:------------
+Player name: P1 , strength 14, constitution 14, dexterity 9, charisma 14 Health 51, Weapon 
+
+-------Printing the gears assigned in sorted order--------
+
+Name: Headgear4, Strength 0, Constitution 2, Dexterity 0, Charisma 0
+Name: Potion10, Strength 6, Constitution 0, Dexterity 0, Charisma 0
+Name: Potion12, Strength 0, Constitution 0, Dexterity 4, Charisma 0
+Name: Potion16, Strength 6, Constitution 0, Dexterity 0, Charisma 0
+Name: Potion18, Strength 0, Constitution 6, Dexterity 0, Charisma 0
+Name: Potion20, Strength 0, Constitution 0, Dexterity 0, Charisma 3
+Name: Potion26, Strength 6, Constitution 0, Dexterity 0, Charisma 0
+Name: Potion37, Strength 0, Constitution 0, Dexterity 6, Charisma 0
+Name: Potion39, Strength 2, Constitution 0, Dexterity 0, Charisma 0
+Name: Potion40, Strength 0, Constitution 0, Dexterity 0, Charisma 2
+Name: Potion45, Strength 0, Constitution 0, Dexterity 0, Charisma -4
+Name: Potion56, Strength 0, Constitution 0, Dexterity 0, Charisma -3
+Name: Potion6, Strength 5, Constitution 0, Dexterity 0, Charisma 0
+Name: Potion7, Strength 0, Constitution 0, Dexterity 0, Charisma 1
+Name: Belt11, Strength 0, Constitution 0, Dexterity 4, Charisma 5, Belt Size 4
+Name: Belt23, Strength 3, Constitution 0, Dexterity 0, Charisma 5, Belt Size 4
+Name: Belt24, Strength 0, Constitution 6, Dexterity 0, Charisma 5, Belt Size 1
+Name: Belt25, Strength 0, Constitution 0, Dexterity 3, Charisma 1, Belt Size 1
+Name: Footwear21, Strength 0, Constitution 0, Dexterity 1, Charisma 0
+Name: Footwear8, Strength 0, Constitution 0, Dexterity 2, Charisma 0
+
+
+---------Player abilities after gears have been assigned:------------
+Player name: P1 , strength 42, constitution 28, dexterity 29, charisma 29 Health 128, Weapon 
+
+------------weapon.Weapon--------------
+Katana weapon has been assigned to player P1
+
+
+P2 player is selected.
+----------------------------------------
+
+
+---------Setting up below player:------------
+Player name: P2 , strength 14, constitution 9, dexterity 11, charisma 12 Health 46, Weapon 
+
+-------Printing the gears assigned in sorted order--------
+
+Name: Headgear5, Strength 0, Constitution 3, Dexterity 0, Charisma 0
+Name: Potion11, Strength 3, Constitution 0, Dexterity 0, Charisma 0
+Name: Potion13, Strength 0, Constitution 0, Dexterity 0, Charisma 5
+Name: Potion14, Strength 0, Constitution 1, Dexterity 0, Charisma 0
+Name: Potion19, Strength 0, Constitution 5, Dexterity 0, Charisma 0
+Name: Potion21, Strength 0, Constitution 0, Dexterity 1, Charisma 0
+Name: Potion22, Strength 4, Constitution 0, Dexterity 0, Charisma 0
+Name: Potion24, Strength 0, Constitution 0, Dexterity 1, Charisma 0
+Name: Potion26, Strength 0, Constitution 0, Dexterity 3, Charisma 0
+Name: Potion27, Strength 0, Constitution 0, Dexterity 0, Charisma 6
+Name: Potion29, Strength 5, Constitution 0, Dexterity 0, Charisma 0
+Name: Potion33, Strength 0, Constitution 0, Dexterity 5, Charisma 0
+Name: Potion54, Strength -1, Constitution 0, Dexterity 0, Charisma 0
+Name: Belt2, Strength 0, Constitution 0, Dexterity 2, Charisma 5, Belt Size 2
+Name: Belt23, Strength 1, Constitution 0, Dexterity 5, Charisma 0, Belt Size 2
+Name: Belt34, Strength 0, Constitution 0, Dexterity 1, Charisma 3, Belt Size 1
+Name: Belt35, Strength 0, Constitution 4, Dexterity 5, Charisma 0, Belt Size 1
+Name: Belt43, Strength 0, Constitution 0, Dexterity -5, Charisma -6, Belt Size 4
+Name: Footwear51, Strength 0, Constitution 0, Dexterity -5, Charisma 0
+Name: Footwear6, Strength 0, Constitution 0, Dexterity 6, Charisma 0
+
+
+---------Player abilities after gears have been assigned:------------
+Player name: P2 , strength 26, constitution 22, dexterity 30, charisma 25 Health 103, Weapon 
+
+------------weapon.Weapon--------------
+TwoHandedSword weapon has been assigned to player P2
+
+
+-----------TOSS---------
+P1 player won the toss.
+----------------------------------------
+
+Striking Power of active player: 51
+Avoidance Power of inactive player: 35
+P1 Strikes, with weapon Katana
+Potential damage val: 46
+Actual damage val: 24
+P2, suffers 24 loss of health, health remaining is: 79
+Katana strikes twice
+
+Striking Power of active player: 43
+Avoidance Power of inactive player: 31
+P1 Strikes, with weapon Katana
+Potential damage val: 47
+Actual damage val: 25
+P2, suffers 25 loss of health, health remaining is: 54
+P2 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+P1 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+
+Striking Power of active player: 50
+Avoidance Power of inactive player: 36
+P1 Strikes, with weapon Katana
+Potential damage val: 48
+Actual damage val: 26
+P2, suffers 26 loss of health, health remaining is: 28
+Katana strikes twice
+
+Striking Power of active player: 52
+Avoidance Power of inactive player: 33
+P1 Strikes, with weapon Katana
+Potential damage val: 47
+Actual damage val: 25
+P2, suffers 25 loss of health, health remaining is: 3
+P2 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+P1 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+
+Striking Power of active player: 46
+Avoidance Power of inactive player: 36
+P1 Strikes, with weapon Katana
+Potential damage val: 46
+Actual damage val: 24
+P2, suffers 24 loss of health, health remaining is: -21
+Katana strikes twice
+P1 Won the battle
+State of Game: P1WIN
+P1 Won the battle
+P2 player is selected.
+----------------------------------------
+
+State of Game: P1WIN
+---------Below Players Created:------------
+Player name: P1 , strength 14, constitution 14, dexterity 9, charisma 14 Health 51, Weapon 
+Player name: P2 , strength 14, constitution 9, dexterity 11, charisma 12 Health 46, Weapon 
+
+---------Below Players Created:------------
+Player name: P1 , strength 14, constitution 14, dexterity 9, charisma 14 Health 51, Weapon 
+Player name: P2 , strength 14, constitution 9, dexterity 11, charisma 12 Health 46, Weapon 
+
+
+---------Setting up below player:------------
+Player name: P1 , strength 14, constitution 14, dexterity 9, charisma 14 Health 51, Weapon 
+
+-------Printing the gears assigned in sorted order--------
+
+Name: Headgear45, Strength 0, Constitution -1, Dexterity 0, Charisma 0
+Name: Potion23, Strength 0, Constitution 0, Dexterity 0, Charisma 3
+Name: Potion26, Strength 0, Constitution 0, Dexterity 4, Charisma 0
+Name: Potion30, Strength 0, Constitution 0, Dexterity 0, Charisma 2
+Name: Potion31, Strength 0, Constitution 0, Dexterity 2, Charisma 0
+Name: Potion33, Strength 0, Constitution 1, Dexterity 0, Charisma 0
+Name: Potion36, Strength 0, Constitution 2, Dexterity 0, Charisma 0
+Name: Potion37, Strength 4, Constitution 0, Dexterity 0, Charisma 0
+Name: Potion38, Strength 0, Constitution 0, Dexterity 4, Charisma 0
+Name: Potion39, Strength 5, Constitution 0, Dexterity 0, Charisma 0
+Name: Potion40, Strength 6, Constitution 0, Dexterity 0, Charisma 0
+Name: Potion43, Strength 0, Constitution -5, Dexterity 0, Charisma 0
+Name: Potion48, Strength 0, Constitution -2, Dexterity 0, Charisma 0
+Name: Belt17, Strength 0, Constitution 2, Dexterity 1, Charisma 0, Belt Size 4
+Name: Belt22, Strength 4, Constitution 0, Dexterity 0, Charisma 4, Belt Size 1
+Name: Belt27, Strength 4, Constitution 0, Dexterity 0, Charisma 6, Belt Size 1
+Name: Belt28, Strength 5, Constitution 5, Dexterity 0, Charisma 0, Belt Size 2
+Name: Belt50, Strength 0, Constitution -4, Dexterity -5, Charisma 0, Belt Size 2
+Name: Footwear1, Strength 0, Constitution 0, Dexterity 4, Charisma 0
+Name: Footwear21, Strength 0, Constitution 0, Dexterity 1, Charisma 0
+
+
+---------Player abilities after gears have been assigned:------------
+Player name: P1 , strength 42, constitution 12, dexterity 20, charisma 29 Health 103, Weapon 
+
+------------weapon.Weapon--------------
+Katana weapon has been assigned to player P1
+
+
+P2 player is selected.
+----------------------------------------
+
+
+---------Setting up below player:------------
+Player name: P2 , strength 14, constitution 9, dexterity 11, charisma 12 Health 46, Weapon 
+
+-------Printing the gears assigned in sorted order--------
+
+Name: Headgear52, Strength 0, Constitution -4, Dexterity 0, Charisma 0
+Name: Potion12, Strength 0, Constitution 0, Dexterity 6, Charisma 0
+Name: Potion21, Strength 1, Constitution 0, Dexterity 0, Charisma 0
+Name: Potion22, Strength 0, Constitution 4, Dexterity 0, Charisma 0
+Name: Potion23, Strength 0, Constitution 1, Dexterity 0, Charisma 0
+Name: Potion24, Strength 0, Constitution 5, Dexterity 0, Charisma 0
+Name: Potion26, Strength 0, Constitution 0, Dexterity 0, Charisma 4
+Name: Potion30, Strength 0, Constitution 0, Dexterity 0, Charisma 1
+Name: Potion36, Strength 0, Constitution 0, Dexterity 2, Charisma 0
+Name: Potion37, Strength 0, Constitution 0, Dexterity 1, Charisma 0
+Name: Potion40, Strength 0, Constitution 0, Dexterity 0, Charisma 1
+Name: Potion41, Strength 6, Constitution 0, Dexterity 0, Charisma 0
+Name: Potion49, Strength 0, Constitution 0, Dexterity -4, Charisma 0
+Name: Potion8, Strength 2, Constitution 0, Dexterity 0, Charisma 0
+Name: Belt20, Strength 0, Constitution 0, Dexterity 6, Charisma 5, Belt Size 4
+Name: Belt34, Strength 0, Constitution 6, Dexterity 5, Charisma 0, Belt Size 1
+Name: Belt44, Strength 0, Constitution 0, Dexterity -5, Charisma -5, Belt Size 1
+Name: Belt7, Strength 0, Constitution 0, Dexterity 6, Charisma 2, Belt Size 4
+Name: Footwear11, Strength 0, Constitution 0, Dexterity 1, Charisma 0
+Name: Footwear9, Strength 0, Constitution 0, Dexterity 2, Charisma 0
+
+
+---------Player abilities after gears have been assigned:------------
+Player name: P2 , strength 23, constitution 21, dexterity 31, charisma 20 Health 95, Weapon 
+
+------------weapon.Weapon--------------
+BroadSword weapon has been assigned to player P2
+
+
+-----------TOSS---------
+P1 player won the toss.
+----------------------------------------
+
+Striking Power of active player: 48
+Avoidance Power of inactive player: 32
+P1 Strikes, with weapon Katana
+Potential damage val: 46
+Actual damage val: 25
+P2, suffers 25 loss of health, health remaining is: 70
+Katana strikes twice
+
+Striking Power of active player: 45
+Avoidance Power of inactive player: 33
+P1 Strikes, with weapon Katana
+Potential damage val: 47
+Actual damage val: 26
+P2, suffers 26 loss of health, health remaining is: 44
+P2 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+P1 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+
+Striking Power of active player: 44
+Avoidance Power of inactive player: 36
+P1 Strikes, with weapon Katana
+Potential damage val: 47
+Actual damage val: 26
+P2, suffers 26 loss of health, health remaining is: 18
+Katana strikes twice
+
+Striking Power of active player: 46
+Avoidance Power of inactive player: 35
+P1 Strikes, with weapon Katana
+Potential damage val: 47
+Actual damage val: 26
+P2, suffers 26 loss of health, health remaining is: -8
+P1 Won the battle
+P2 player is selected.
+----------------------------------------
+
+State of Game: P1WIN
+P1 Won the battle
+P1 player is selected.
+----------------------------------------
+
+State of Game: P1WIN
+
+
+Process finished with exit code 0

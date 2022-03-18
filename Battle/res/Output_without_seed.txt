@@ -1,0 +1,616 @@
+"C:\Program Files\Java\jdk-11.0.12\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.1\lib\idea_rt.jar=53662:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\amarp\CS5010\Battle\out\production\Battle;C:\Users\amarp\.m2\repository\junit\junit\4.13.1\junit-4.13.1.jar;C:\Users\amarp\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar Driver
+Game with result: P1WIN
+Enter REMATCH rematch the players or enter any key to exit:
+REMATCH
+Game with result: P2WIN
+Enter REMATCH rematch the players or enter any key to exit:
+exit
+Welcome to the Battle, here two players P1 and P2 will be contesting.
+---------Below Players Created:------------
+Player name: P1 , strength 10, constitution 15, dexterity 8, charisma 13 Health 46, Weapon 
+Player name: P2 , strength 8, constitution 10, dexterity 14, charisma 13 Health 45, Weapon 
+
+
+---------Setting up below player:------------
+Player name: P1 , strength 10, constitution 15, dexterity 8, charisma 13 Health 46, Weapon 
+
+-------Printing the gears assigned in sorted order--------
+
+Name: Headgear36, Strength 0, Constitution 3, Dexterity 0, Charisma 0
+Name: Potion1, Strength 0, Constitution 0, Dexterity 0, Charisma 6
+Name: Potion10, Strength 0, Constitution 0, Dexterity 0, Charisma 4
+Name: Potion15, Strength 0, Constitution 0, Dexterity 5, Charisma 0
+Name: Potion20, Strength 0, Constitution 0, Dexterity 5, Charisma 0
+Name: Potion28, Strength 3, Constitution 0, Dexterity 0, Charisma 0
+Name: Potion34, Strength 5, Constitution 0, Dexterity 0, Charisma 0
+Name: Potion35, Strength 0, Constitution 0, Dexterity 3, Charisma 0
+Name: Potion37, Strength 0, Constitution 0, Dexterity 1, Charisma 0
+Name: Potion46, Strength 0, Constitution 0, Dexterity 0, Charisma -6
+Name: Potion8, Strength 3, Constitution 0, Dexterity 0, Charisma 0
+Name: Belt14, Strength 2, Constitution 0, Dexterity 0, Charisma 1, Belt Size 1
+Name: Belt31, Strength 6, Constitution 2, Dexterity 0, Charisma 0, Belt Size 1
+Name: Belt38, Strength 3, Constitution 0, Dexterity 3, Charisma 0, Belt Size 1
+Name: Belt39, Strength 0, Constitution 4, Dexterity 0, Charisma 2, Belt Size 1
+Name: Belt42, Strength 3, Constitution 5, Dexterity 0, Charisma 0, Belt Size 2
+Name: Belt48, Strength 0, Constitution 0, Dexterity -1, Charisma -6, Belt Size 2
+Name: Belt7, Strength 0, Constitution 0, Dexterity 5, Charisma 6, Belt Size 2
+Name: Footwear12, Strength 0, Constitution 0, Dexterity 3, Charisma 0
+Name: Footwear3, Strength 0, Constitution 0, Dexterity 6, Charisma 0
+
+
+---------Player abilities after gears have been assigned:------------
+Player name: P1 , strength 35, constitution 29, dexterity 38, charisma 20 Health 122, Weapon 
+
+------------weapon.Weapon--------------
+BroadSword weapon has been assigned to player P1
+
+
+P2 player is selected.
+----------------------------------------
+
+
+---------Setting up below player:------------
+Player name: P2 , strength 8, constitution 10, dexterity 14, charisma 13 Health 45, Weapon 
+
+-------Printing the gears assigned in sorted order--------
+
+Name: Headgear51, Strength 0, Constitution -5, Dexterity 0, Charisma 0
+Name: Potion16, Strength 0, Constitution 0, Dexterity 0, Charisma 3
+Name: Potion19, Strength 0, Constitution 0, Dexterity 0, Charisma 5
+Name: Potion21, Strength 0, Constitution 0, Dexterity 0, Charisma 4
+Name: Potion23, Strength 0, Constitution 0, Dexterity 5, Charisma 0
+Name: Potion29, Strength 0, Constitution 0, Dexterity 0, Charisma 1
+Name: Potion3, Strength 3, Constitution 0, Dexterity 0, Charisma 0
+Name: Potion32, Strength 0, Constitution 0, Dexterity 1, Charisma 0
+Name: Potion33, Strength 0, Constitution 3, Dexterity 0, Charisma 0
+Name: Potion35, Strength 5, Constitution 0, Dexterity 0, Charisma 0
+Name: Potion37, Strength 0, Constitution 2, Dexterity 0, Charisma 0
+Name: Potion40, Strength 1, Constitution 0, Dexterity 0, Charisma 0
+Name: Potion47, Strength 0, Constitution 0, Dexterity 0, Charisma -4
+Name: Potion52, Strength 0, Constitution 0, Dexterity 0, Charisma -6
+Name: Belt18, Strength 0, Constitution 0, Dexterity 6, Charisma 4, Belt Size 1
+Name: Belt27, Strength 2, Constitution 0, Dexterity 0, Charisma 5, Belt Size 2
+Name: Belt30, Strength 0, Constitution 5, Dexterity 5, Charisma 0, Belt Size 2
+Name: Belt56, Strength -3, Constitution 0, Dexterity -5, Charisma 0, Belt Size 4
+Name: Footwear2, Strength 0, Constitution 0, Dexterity 4, Charisma 0
+Name: Footwear49, Strength 0, Constitution 0, Dexterity -1, Charisma 0
+
+
+---------Player abilities after gears have been assigned:------------
+Player name: P2 , strength 16, constitution 15, dexterity 29, charisma 25 Health 85, Weapon 
+
+------------weapon.Weapon--------------
+BroadSword weapon has been assigned to player P2
+
+
+-----------TOSS---------
+P2 player won the toss.
+----------------------------------------
+
+Striking Power of attacking player: 17
+Avoidance Power of defending player: 43
+P2 could not strike this time because of low Striking Power
+P1 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+
+Striking Power of attacking player: 42
+Avoidance Power of defending player: 35
+P1 Strikes, with weapon BroadSword
+Potential damage val: 44
+Actual damage val: 29
+P2, suffers 29 loss of health, health remaining is: 56
+P2 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+
+Striking Power of attacking player: 18
+Avoidance Power of defending player: 41
+P2 could not strike this time because of low Striking Power
+P1 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+
+Striking Power of attacking player: 36
+Avoidance Power of defending player: 32
+P1 Strikes, with weapon BroadSword
+Potential damage val: 45
+Actual damage val: 30
+P2, suffers 30 loss of health, health remaining is: 26
+P2 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+
+Striking Power of attacking player: 23
+Avoidance Power of defending player: 41
+P2 could not strike this time because of low Striking Power
+P1 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+
+Striking Power of attacking player: 37
+Avoidance Power of defending player: 32
+P1 Strikes, with weapon BroadSword
+Potential damage val: 41
+Actual damage val: 26
+P2, suffers 26 loss of health, health remaining is: 0
+P1 Won the battle
+P2 player is selected.
+----------------------------------------
+
+State of Game: P1WIN
+---------Below Players Created:------------
+Player name: P1 , strength 10, constitution 15, dexterity 8, charisma 13 Health 46, Weapon 
+Player name: P2 , strength 8, constitution 10, dexterity 14, charisma 13 Health 45, Weapon 
+
+---------Below Players Created:------------
+Player name: P1 , strength 10, constitution 15, dexterity 8, charisma 13 Health 46, Weapon 
+Player name: P2 , strength 8, constitution 10, dexterity 14, charisma 13 Health 45, Weapon 
+
+
+---------Setting up below player:------------
+Player name: P1 , strength 10, constitution 15, dexterity 8, charisma 13 Health 46, Weapon 
+
+-------Printing the gears assigned in sorted order--------
+
+Name: Headgear23, Strength 0, Constitution 6, Dexterity 0, Charisma 0
+Name: Potion12, Strength 0, Constitution 0, Dexterity 0, Charisma 1
+Name: Potion14, Strength 0, Constitution 0, Dexterity 0, Charisma 5
+Name: Potion18, Strength 0, Constitution 0, Dexterity 4, Charisma 0
+Name: Potion22, Strength 2, Constitution 0, Dexterity 0, Charisma 0
+Name: Potion25, Strength 0, Constitution 0, Dexterity 0, Charisma 1
+Name: Potion33, Strength 2, Constitution 0, Dexterity 0, Charisma 0
+Name: Potion40, Strength 0, Constitution 6, Dexterity 0, Charisma 0
+Name: Potion42, Strength 0, Constitution 0, Dexterity 4, Charisma 0
+Name: Potion49, Strength 0, Constitution 0, Dexterity -1, Charisma 0
+Name: Potion50, Strength 0, Constitution -3, Dexterity 0, Charisma 0
+Name: Potion53, Strength -3, Constitution 0, Dexterity 0, Charisma 0
+Name: Potion54, Strength 0, Constitution 0, Dexterity -5, Charisma 0
+Name: Belt26, Strength 0, Constitution 5, Dexterity 3, Charisma 0, Belt Size 2
+Name: Belt29, Strength 5, Constitution 0, Dexterity 0, Charisma 2, Belt Size 1
+Name: Belt31, Strength 2, Constitution 6, Dexterity 0, Charisma 0, Belt Size 4
+Name: Belt4, Strength 0, Constitution 5, Dexterity 6, Charisma 0, Belt Size 1
+Name: Belt44, Strength 0, Constitution -3, Dexterity 0, Charisma -4, Belt Size 2
+Name: Footwear10, Strength 0, Constitution 0, Dexterity 6, Charisma 0
+Name: Footwear6, Strength 0, Constitution 0, Dexterity 1, Charisma 0
+
+
+---------Player abilities after gears have been assigned:------------
+Player name: P1 , strength 18, constitution 37, dexterity 26, charisma 18 Health 99, Weapon 
+
+------------weapon.Weapon--------------
+BroadSword weapon has been assigned to player P1
+
+
+P2 player is selected.
+----------------------------------------
+
+
+---------Setting up below player:------------
+Player name: P2 , strength 8, constitution 10, dexterity 14, charisma 13 Health 45, Weapon 
+
+-------Printing the gears assigned in sorted order--------
+
+Name: Headgear47, Strength 0, Constitution -5, Dexterity 0, Charisma 0
+Name: Potion10, Strength 4, Constitution 0, Dexterity 0, Charisma 0
+Name: Potion15, Strength 0, Constitution 0, Dexterity 0, Charisma 5
+Name: Potion18, Strength 0, Constitution 0, Dexterity 2, Charisma 0
+Name: Potion19, Strength 0, Constitution 0, Dexterity 6, Charisma 0
+Name: Potion22, Strength 2, Constitution 0, Dexterity 0, Charisma 0
+Name: Potion31, Strength 0, Constitution 4, Dexterity 0, Charisma 0
+Name: Potion33, Strength 0, Constitution 0, Dexterity 4, Charisma 0
+Name: Potion38, Strength 5, Constitution 0, Dexterity 0, Charisma 0
+Name: Potion41, Strength 0, Constitution 1, Dexterity 0, Charisma 0
+Name: Potion49, Strength -3, Constitution 0, Dexterity 0, Charisma 0
+Name: Potion56, Strength 0, Constitution -3, Dexterity 0, Charisma 0
+Name: Potion6, Strength 4, Constitution 0, Dexterity 0, Charisma 0
+Name: Belt3, Strength 4, Constitution 0, Dexterity 4, Charisma 0, Belt Size 4
+Name: Belt30, Strength 6, Constitution 0, Dexterity 0, Charisma 3, Belt Size 2
+Name: Belt42, Strength 0, Constitution 0, Dexterity 4, Charisma 2, Belt Size 1
+Name: Belt54, Strength -1, Constitution 0, Dexterity -4, Charisma 0, Belt Size 2
+Name: Belt7, Strength 6, Constitution 1, Dexterity 0, Charisma 0, Belt Size 1
+Name: Footwear2, Strength 0, Constitution 0, Dexterity 3, Charisma 0
+Name: Footwear48, Strength 0, Constitution 0, Dexterity -5, Charisma 0
+
+
+---------Player abilities after gears have been assigned:------------
+Player name: P2 , strength 35, constitution 8, dexterity 28, charisma 23 Health 94, Weapon 
+
+------------weapon.Weapon--------------
+Katana weapon has been assigned to player P2
+
+
+-----------TOSS---------
+P2 player won the toss.
+----------------------------------------
+
+Striking Power of attacking player: 45
+Avoidance Power of defending player: 32
+P2 Strikes, with weapon Katana
+Potential damage val: 39
+Actual damage val: 2
+P1, suffers 2 loss of health, health remaining is: 97
+Katana strikes twice
+
+Striking Power of attacking player: 36
+Avoidance Power of defending player: 30
+P2 Strikes, with weapon Katana
+Potential damage val: 41
+Actual damage val: 4
+P1, suffers 4 loss of health, health remaining is: 93
+P1 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+P2 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+
+Striking Power of attacking player: 43
+Avoidance Power of defending player: 28
+P2 Strikes, with weapon Katana
+Potential damage val: 40
+Actual damage val: 3
+P1, suffers 3 loss of health, health remaining is: 90
+Katana strikes twice
+
+Striking Power of attacking player: 37
+Avoidance Power of defending player: 28
+P2 Strikes, with weapon Katana
+Potential damage val: 39
+Actual damage val: 2
+P1, suffers 2 loss of health, health remaining is: 88
+P1 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+P2 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+
+Striking Power of attacking player: 37
+Avoidance Power of defending player: 30
+P2 Strikes, with weapon Katana
+Potential damage val: 41
+Actual damage val: 4
+P1, suffers 4 loss of health, health remaining is: 84
+Katana strikes twice
+
+Striking Power of attacking player: 39
+Avoidance Power of defending player: 28
+P2 Strikes, with weapon Katana
+Potential damage val: 40
+Actual damage val: 3
+P1, suffers 3 loss of health, health remaining is: 81
+P1 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+P2 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+
+Striking Power of attacking player: 45
+Avoidance Power of defending player: 30
+P2 Strikes, with weapon Katana
+Potential damage val: 39
+Actual damage val: 2
+P1, suffers 2 loss of health, health remaining is: 79
+Katana strikes twice
+
+Striking Power of attacking player: 40
+Avoidance Power of defending player: 30
+P2 Strikes, with weapon Katana
+Potential damage val: 40
+Actual damage val: 3
+P1, suffers 3 loss of health, health remaining is: 76
+P1 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+P2 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+
+Striking Power of attacking player: 38
+Avoidance Power of defending player: 30
+P2 Strikes, with weapon Katana
+Potential damage val: 41
+Actual damage val: 4
+P1, suffers 4 loss of health, health remaining is: 72
+Katana strikes twice
+
+Striking Power of attacking player: 40
+Avoidance Power of defending player: 27
+P2 Strikes, with weapon Katana
+Potential damage val: 39
+Actual damage val: 2
+P1, suffers 2 loss of health, health remaining is: 70
+P1 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+P2 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+
+Striking Power of attacking player: 45
+Avoidance Power of defending player: 27
+P2 Strikes, with weapon Katana
+Potential damage val: 40
+Actual damage val: 3
+P1, suffers 3 loss of health, health remaining is: 67
+Katana strikes twice
+
+Striking Power of attacking player: 36
+Avoidance Power of defending player: 28
+P2 Strikes, with weapon Katana
+Potential damage val: 39
+Actual damage val: 2
+P1, suffers 2 loss of health, health remaining is: 65
+P1 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+P2 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+
+Striking Power of attacking player: 43
+Avoidance Power of defending player: 30
+P2 Strikes, with weapon Katana
+Potential damage val: 40
+Actual damage val: 3
+P1, suffers 3 loss of health, health remaining is: 62
+Katana strikes twice
+
+Striking Power of attacking player: 38
+Avoidance Power of defending player: 27
+P2 Strikes, with weapon Katana
+Potential damage val: 41
+Actual damage val: 4
+P1, suffers 4 loss of health, health remaining is: 58
+P1 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+P2 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+
+Striking Power of attacking player: 42
+Avoidance Power of defending player: 30
+P2 Strikes, with weapon Katana
+Potential damage val: 40
+Actual damage val: 3
+P1, suffers 3 loss of health, health remaining is: 55
+Katana strikes twice
+
+Striking Power of attacking player: 43
+Avoidance Power of defending player: 30
+P2 Strikes, with weapon Katana
+Potential damage val: 40
+Actual damage val: 3
+P1, suffers 3 loss of health, health remaining is: 52
+P1 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+P2 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+
+Striking Power of attacking player: 43
+Avoidance Power of defending player: 28
+P2 Strikes, with weapon Katana
+Potential damage val: 40
+Actual damage val: 3
+P1, suffers 3 loss of health, health remaining is: 49
+Katana strikes twice
+
+Striking Power of attacking player: 38
+Avoidance Power of defending player: 29
+P2 Strikes, with weapon Katana
+Potential damage val: 41
+Actual damage val: 4
+P1, suffers 4 loss of health, health remaining is: 45
+P1 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+P2 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+
+Striking Power of attacking player: 42
+Avoidance Power of defending player: 30
+P2 Strikes, with weapon Katana
+Potential damage val: 41
+Actual damage val: 4
+P1, suffers 4 loss of health, health remaining is: 41
+Katana strikes twice
+
+Striking Power of attacking player: 42
+Avoidance Power of defending player: 30
+P2 Strikes, with weapon Katana
+Potential damage val: 41
+Actual damage val: 4
+P1, suffers 4 loss of health, health remaining is: 37
+P1 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+P2 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+
+Striking Power of attacking player: 36
+Avoidance Power of defending player: 28
+P2 Strikes, with weapon Katana
+Potential damage val: 40
+Actual damage val: 3
+P1, suffers 3 loss of health, health remaining is: 34
+Katana strikes twice
+
+Striking Power of attacking player: 43
+Avoidance Power of defending player: 28
+P2 Strikes, with weapon Katana
+Potential damage val: 39
+Actual damage val: 2
+P1, suffers 2 loss of health, health remaining is: 32
+P1 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+P2 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+
+Striking Power of attacking player: 37
+Avoidance Power of defending player: 32
+P2 Strikes, with weapon Katana
+Potential damage val: 40
+Actual damage val: 3
+P1, suffers 3 loss of health, health remaining is: 29
+Katana strikes twice
+
+Striking Power of attacking player: 43
+Avoidance Power of defending player: 31
+P2 Strikes, with weapon Katana
+Potential damage val: 40
+Actual damage val: 3
+P1, suffers 3 loss of health, health remaining is: 26
+P1 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+P2 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+
+Striking Power of attacking player: 37
+Avoidance Power of defending player: 27
+P2 Strikes, with weapon Katana
+Potential damage val: 41
+Actual damage val: 4
+P1, suffers 4 loss of health, health remaining is: 22
+Katana strikes twice
+
+Striking Power of attacking player: 39
+Avoidance Power of defending player: 31
+P2 Strikes, with weapon Katana
+Potential damage val: 41
+Actual damage val: 4
+P1, suffers 4 loss of health, health remaining is: 18
+P1 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+P2 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+
+Striking Power of attacking player: 42
+Avoidance Power of defending player: 28
+P2 Strikes, with weapon Katana
+Potential damage val: 40
+Actual damage val: 3
+P1, suffers 3 loss of health, health remaining is: 15
+Katana strikes twice
+
+Striking Power of attacking player: 40
+Avoidance Power of defending player: 27
+P2 Strikes, with weapon Katana
+Potential damage val: 39
+Actual damage val: 2
+P1, suffers 2 loss of health, health remaining is: 13
+P1 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+P2 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+
+Striking Power of attacking player: 40
+Avoidance Power of defending player: 31
+P2 Strikes, with weapon Katana
+Potential damage val: 40
+Actual damage val: 3
+P1, suffers 3 loss of health, health remaining is: 10
+Katana strikes twice
+
+Striking Power of attacking player: 41
+Avoidance Power of defending player: 30
+P2 Strikes, with weapon Katana
+Potential damage val: 41
+Actual damage val: 4
+P1, suffers 4 loss of health, health remaining is: 6
+P1 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+P2 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+
+Striking Power of attacking player: 45
+Avoidance Power of defending player: 29
+P2 Strikes, with weapon Katana
+Potential damage val: 40
+Actual damage val: 3
+P1, suffers 3 loss of health, health remaining is: 3
+Katana strikes twice
+
+Striking Power of attacking player: 37
+Avoidance Power of defending player: 32
+P2 Strikes, with weapon Katana
+Potential damage val: 39
+Actual damage val: 2
+P1, suffers 2 loss of health, health remaining is: 1
+P1 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+P2 player is selected.
+----------------------------------------
+
+State of Game: PLAYING
+
+Striking Power of attacking player: 36
+Avoidance Power of defending player: 28
+P2 Strikes, with weapon Katana
+Potential damage val: 41
+Actual damage val: 4
+P1, suffers 4 loss of health, health remaining is: -3
+Katana strikes twice
+P2 Won the battle
+State of Game: P2WIN
+P2 Won the battle
+P1 player is selected.
+----------------------------------------
+
+State of Game: P2WIN
+
+
+Process finished with exit code 0

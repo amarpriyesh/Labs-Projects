@@ -1,0 +1,50 @@
+"C:\Program Files\Java\jdk-11.0.12\bin\java.exe" -Dfile.encoding=windows-1252 -jar C:\Users\amarp\CS5010\Sanctury\out\artifacts\Sanctury_jar\Sanctury.jar
+print monkey in isolation
+name: Sam size: 1 food: LEAVES
+name: Abey size: 5 food: FRUITS
+name: Catline size: 5 food: FRUITS
+name: Aaey size: 5 food: TREESAP
+name: Vam size: 10 food: NUTS
+name: Vaa size: 5 food: INSECTS
+
+[Ape]
+Adding monkey to Enclosure
+print monkey in enclosure
+name: Abey size: 5 food: FRUITS
+-------------------------
+deleting monkey e from enclosure
+---------------Enclosure State----------------------
+[null, null, null]
+[0, 0, 0]
+Printing Species of monkey and its location in alphabetical order with respect to species
+-----------------------------------------------------------------------------------------
+Species name: Ape, Species location: Isolation
+Species name: Ape, Species location: Isolation
+Species name: Ape, Species location: Isolation
+Species name: Ape, Species location: Isolation
+Species name: Zpew, Species location: Isolation
+-----------------------------------------------------------------------------------------
+
+Printing where Monkey species Ape is currently housed
+-----------------------------------------------------
+The Species Zpew  is only available in Isolation at the following numbers  1
+-----------------------------------------------------
+
+Printing Sign of a given enclosure
+-----------------------------------------------------
+Below are the signs of Monkeys present in enclosure no 1
+-----------------------------------------------------
+
+Printing list of all the monkeys and their location in alphabetical order
+-------------------------------------------------------------------------
+Monkey name: Aaey, Species location: Isolation
+Monkey name: Catline, Species location: Isolation
+Monkey name: Sam, Species location: Isolation
+Monkey name: Vaa, Species location: Isolation
+Monkey name: Vam, Species location: Isolation
+-------------------------------------------------------------------------
+
+Printing shopping list of the food for all the monkeys
+{Leaves=100, Nuts=500, Insects=250, TreeSap=250, Fruits=250}
+
+Process finished with exit code 0
